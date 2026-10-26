@@ -1,0 +1,14 @@
+{
+  "project": "democritus-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "ENbv7JqXuBExs3zkUN4CjXVNd41Xv8LHdCp7sVyaVN7r",
+  "vault_account": "6s3ucfgwVqvd4BBtfVX1Yy1J2gUTuB61gd84jPbpgEDq",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "3GTigAa4Fcti8f6RfJ7LwVHj84KoJAoZpd5RRftTuMmWHoyyWZorBnVdBYwkD2pMDUZBrBjvEgGGeBoQLyVaBPZG",
+  "account_tx": "3P8qGAf4SYcxQZdsmwsPrHPZyibRfidsGycs93WNS3ABLDPCo1PY6eskpdPSpN51giLaqExW8hHDmBGkCzf5GpFc",
+  "mint_tx": "2kvLPwZ3CDrt5EMFPx5WKeY4mt2zyGUwvFWq9BgQqWppLEBvjYDD97msLQQxGkYFFDzKzyojpMMa7Xj8wXti9dyS",
+  "solana_explorer_mint": "https://explorer.solana.com/address/ENbv7JqXuBExs3zkUN4CjXVNd41Xv8LHdCp7sVyaVN7r?cluster=devnet",
+  "timestamp": "2026-10-26 16:27:36 UTC"
+}
